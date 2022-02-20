@@ -1,4 +1,4 @@
-[Cover Image](/assets/copertina-titolo-non-tagliato.png)
+![Cover Image](/assets/copertina-titolo-non-tagliato.png)
 
 ### Hi there 👋
 
